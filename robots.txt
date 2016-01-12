@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://joegesualdo.com/sitemap.xml
+Disallow: /ghost/
