@@ -1,2 +1,2 @@
-# Blog
-Powered by [Ghost](http://ghost.org) and [Buster](https://github.com/axitkhurana/buster/).
+# Joe Gesualdo's Personal Blog
+> Can be found at [www.joegesualdo.com](http://www.joegesualdo.com)
